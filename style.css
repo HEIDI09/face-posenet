@@ -1,0 +1,31 @@
+
+.heading{
+    font-size: 23px;
+     width: 250px; 
+     margin: 0px;
+     padding: 10px; 
+     box-shadow:5px 5px 5px 5px rgb(255, 255, 255); 
+     background-color: rgb(209, 238, 255);
+     font-family: 'Londrina Solid', cursive;
+     border-radius: 0px; 
+     color: rgb(87, 146, 255);
+     font-size: 33px;
+}
+
+.heading_div { 
+   float: none ; 
+   background: rgb(209, 238, 255) ; 
+   padding: 10px;
+    border-radius: 0px; 
+    color: rgb(87, 146, 255);
+    box-shadow:5px 5px 5px 5px rgb(255, 255, 255); 
+    font-family: 'Londrina Solid', cursive;
+    font-size: 30px;
+}
+.heading_div2{
+   background: rgb(209, 238, 255);
+   font-family: 'Londrina Solid', cursive;
+   color: rgb(87, 146, 255); 
+   font-size: 20px;
+   margin-bottom: 15px;
+}
